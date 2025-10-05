@@ -4,12 +4,8 @@
 This Java program converts a temperature value from **Fahrenheit** to **Celsius**.  
 The user is prompted to enter a temperature in Fahrenheit, and the program outputs the equivalent value in Celsius.
 
----
 
-## 🧑‍💻 Author Information
-- **Name:** Abdulelah Ayman  
-- **ID:** 447007544  
-- **Group:** 11  
+
 
 ---
 
